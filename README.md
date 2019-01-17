@@ -1,6 +1,6 @@
 # 44563-02
 ## NikithaLakmarapu
-##About me
+## About me
 
 -[workingwithmarkdown](https://github.com/profcase/working-with-markdown)
 1. from horizons
