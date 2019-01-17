@@ -7,6 +7,6 @@
 1. new to US
 1. new to maryville
 
-![ferisian](https://github.com/NikithaLakmarapu/44563-02/blob/master/love.jpg)
+![ferisian1](https://github.com/NikithaLakmarapu/44563-02/blob/master/love.jpg)
 ![ferisian2](https://st2.depositphotos.com/1000934/8841/i/950/depositphotos_88413290-stock-photo-the-black-horse-of-the.jpg)
 - thankyou!!!
